@@ -5,7 +5,6 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "5b48afdff8432199c93bff2a67788ad5",
 "assets/assets/images/logodg.png": "b122e209fe3738de173dff3e7ecea208",
-"assets/assets/images/logozelia.png": "32238f2a9a0ceda83b5bcd16ed054f17",
 "assets/assets/images/logozelia1.png": "ad79d4c0c5c2bb050c5ad2c1ebacaba7",
 "assets/assets/images/user.png": "2fa20c3f61d375e26b15e8522046a5c1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -30,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2278cc7cc0d965213b7892259d26d6e6",
-"/": "2278cc7cc0d965213b7892259d26d6e6",
-"main.dart.js": "66d53fc5849c39f94934d0d5da5899c3",
+"index.html": "8940e15cef8eb67df42927b2b5c6d734",
+"/": "8940e15cef8eb67df42927b2b5c6d734",
+"main.dart.js": "c6919afded513f9c1e7b4f28a1569e89",
 "manifest.json": "de9f48a84b4c38c7338cc2dae5bce5a4",
 "version.json": "ff576fc060e335a5bba21fc95f38416b"
 };
